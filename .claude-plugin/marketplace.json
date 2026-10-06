@@ -1,0 +1,13 @@
+{
+  "name": "cc-auto-appeal",
+  "description": "Ask instead of deny when the auto-mode classifier blocks a tool call.",
+  "owner": {
+    "name": "Luke"
+  },
+  "plugins": [
+    {
+      "name": "auto-appeal",
+      "source": "./"
+    }
+  ]
+}

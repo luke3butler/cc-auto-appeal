@@ -1,0 +1,8 @@
+{
+  "name": "auto-appeal",
+  "version": "0.1.0",
+  "description": "When the auto-mode classifier blocks a tool call, ask you instead of telling Claude to find another way.",
+  "author": {
+    "name": "Luke"
+  }
+}
